@@ -6,7 +6,7 @@ const Formulario = ({setCategoria}) => {
         {value : 'general', label : 'General'},
         {value : 'business', label : 'Negocios'},
         {value : 'entertainment', label : 'Entretenimiento'},
-        {value : 'healt', label : 'Salud'},
+        {value : 'health', label : 'Salud'},
         {value : 'science', label : 'Ciencia'},
         {value : 'technology', label : 'Tecnologia'},
         {value : 'sports', label : 'Deportes'},
